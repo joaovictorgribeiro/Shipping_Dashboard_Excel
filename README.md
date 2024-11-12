@@ -1,5 +1,7 @@
 # Supply Chain Analytics Dashboard
 
+![Supply Chain Dashboard](https://github.com/joaovictorgribeiro/Shipping_Dashboard_Excel/blob/main/Dash.png)
+
 ## Overview
 This project demonstrates a detailed guide on constructing a **Supply Chain Analytics Dashboard** using **Microsoft Excel**. Designed for streamlined management and in-depth analysis of supply chain metrics, this dashboard provides a comprehensive view of financial and operational data crucial for decision-making in supply chain and logistics.
 
